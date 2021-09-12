@@ -1,0 +1,3 @@
+ Stalin; Stalin;19; Stalin;19;Ingenieria
+ Alex; Alex;19; Alex;19;Educacion
+ Homero; Homero;20; Homero;20;Ingenieria
